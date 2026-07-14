@@ -92,17 +92,24 @@ Representative outputs from the analysis include:
 - Scatter Plot Analysis
 - Comparative Bar Charts
 
-> Screenshots of these visualizations can be added to the `images/` directory and embedded here for easier review.
 
 Example:
 
-```markdown
+## Results
+
+The analysis produced several visual outputs highlighting patterns, relationships, and trends within the dataset.
+
+### Correlation Heatmap
+
 ![Correlation Heatmap](images/heatmap.png)
+
+### Distribution Analysis
 
 ![Distribution Plot](images/distribution.png)
 
+### Feature Relationship Analysis
+
 ![Scatter Plot](images/scatter.png)
-```
 
 ---
 
