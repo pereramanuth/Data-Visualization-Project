@@ -1,4 +1,6 @@
 # 📊 Economic Data Visualization and Exploratory Analysis
+
+## Overview
 This project demonstrates the application of data visualization and exploratory data analysis (EDA) techniques to analyze economic data using Python. By transforming raw datasets into meaningful visual representations, the project identifies trends, distributions, correlations, and patterns that support data-driven analysis.
 
 The project follows a structured data analytics workflow consisting of data preprocessing, exploratory analysis, statistical visualization, and interpretation of results. It showcases fundamental data analysis skills that serve as the foundation for more advanced machine learning and artificial intelligence workflows.
